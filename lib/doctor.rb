@@ -18,7 +18,6 @@ class Doctor
   end
   
     
-    Appointment.
 
 end
 
